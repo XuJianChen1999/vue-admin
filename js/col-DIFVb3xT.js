@@ -1,0 +1,1 @@
+import{a3 as a,a4 as s,a5 as l,a8 as p,a9 as o,aV as e,bE as r}from"./.pnpm-DSXWUmMM.js";import{K as t}from"./index-CMBT9BYn.js";const m={__name:"col",props:t,setup:t=>(t,m)=>{const n=e,f=r;return a(),s(f,{lg:t.lg},{default:l((()=>[p(n,{label:t.label,prop:t.prop},{default:l((()=>[o(t.$slots,"default")])),_:3},8,["label","prop"])])),_:3},8,["lg"])}};export{m as _};

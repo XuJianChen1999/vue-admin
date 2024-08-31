@@ -1,0 +1,1 @@
+import{_ as a,x as s}from"./index-CMBT9BYn.js";import{a3 as t,a4 as n,a5 as o,af as r,ao as e,ap as p}from"./.pnpm-DSXWUmMM.js";const u=a({},[["render",function(a,u){const f=s;return t(),n(f,null,{default:o((()=>[r("h1",null,e(a.$route.path),1),p(" 嵌套路由1 ")])),_:1})}]]);export{u as default};
