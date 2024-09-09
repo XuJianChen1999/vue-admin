@@ -1,0 +1,1 @@
+import a from"./404-8r3k9lA3.js";import{a3 as s,ae as o,a8 as t,aa as m}from"./.pnpm-BO0thPis.js";import"./index-B13NQykv.js";const n={__name:"notfound",setup:n=>(n,p)=>(s(),o("div",null,[t(m(a))]))};export{n as default};
