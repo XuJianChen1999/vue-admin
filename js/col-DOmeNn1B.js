@@ -1,0 +1,1 @@
+import{e as a,ar as s,as as l,av as p,h as o,b5 as e,bR as r}from"./.pnpm-B5NcQQUZ.js";import{K as t}from"./index-DZ8Xxrs2.js";const m={__name:"col",props:t,setup:t=>(t,m)=>{const n=e,b=r;return a(),s(b,{lg:t.lg},{default:l((()=>[p(n,{label:t.label,prop:t.prop},{default:l((()=>[o(t.$slots,"default")])),_:3},8,["label","prop"])])),_:3},8,["lg"])}};export{m as _};

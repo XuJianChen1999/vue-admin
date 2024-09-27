@@ -1,1 +1,0 @@
-import{_ as s,x as t}from"./index-CMBT9BYn.js";import{a3 as a,a4 as e,a5 as r,a8 as n,bB as o}from"./.pnpm-DSXWUmMM.js";const u=s({},[["render",function(s,u){const i=o,l=t;return a(),e(l,null,{default:r((()=>[n(i,{title:JSON.stringify(s.$route.query),type:"success"},null,8,["title"])])),_:1})}]]);export{u as default};

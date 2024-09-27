@@ -1,1 +1,0 @@
-import{_ as a,x as s}from"./index-D91Jtym3.js";import{a3 as t,a4 as n,a5 as o,af as r,ao as e,ap as p}from"./.pnpm-BO0thPis.js";const u=a({},[["render",function(a,u){const f=s;return t(),n(f,null,{default:o((()=>[r("h1",null,e(a.$route.path),1),u[0]||(u[0]=p(" 嵌套路由2 "))])),_:1})}]]);export{u as default};

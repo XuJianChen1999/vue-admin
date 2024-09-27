@@ -1,1 +1,0 @@
-import{B as e}from"./index-B13NQykv.js";function s(){return e({url:"/user/getUsers",method:"post",data:{page:1,size:10},options:{loadingText:"正在获取数据",successText:"获取成功",errorText:"获取失败"}})}export{s as g};

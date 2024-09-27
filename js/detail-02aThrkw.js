@@ -1,0 +1,1 @@
+import{_ as s,x as t}from"./index-DZ8Xxrs2.js";import{e,ar as a,as as r,av as n,bN as o}from"./.pnpm-B5NcQQUZ.js";const u=s({},[["render",function(s,u){const i=o,l=t;return e(),a(l,null,{default:r((()=>[n(i,{title:JSON.stringify(s.$route.query),type:"success"},null,8,["title"])])),_:1})}]]);export{u as default};

@@ -1,1 +1,0 @@
-import{ac as a,an as r,ah as s,ae as n,ay as o,aM as t,az as e}from"./.pnpm-BLGzruUg.js";import{_ as p}from"./index-CjL9fGc7.js";const i=p({},[["render",function(p,i){const m=e;return a(),r(t,null,[s(m,{type:"primary",onClick:i[0]||(i[0]=a=>p.$router.go(-1))},{default:n((()=>i[1]||(i[1]=[o("返回")]))),_:1}),i[2]||(i[2]=o(" 这是一个全屏页面 "))],64)}]]);export{i as default};
