@@ -1,0 +1,1 @@
+import{cm as e,cn as t,E as n}from"./.pnpm-BLGzruUg.js";function r(r,o,s,i){const a=new e,c=s||"file",f=i||"file";let l=`${r}\r\n`;o.forEach((e=>{let t="";t=e.toString(),l+=`${t}\r\n`})),a.file(`${c}.txt`,l),a.generateAsync({type:"blob"}).then((e=>{t.saveAs(e,`${f}.zip`)}),(e=>{n.error("导出失败")}))}export{r as export_txt_to_zip};
