@@ -1,0 +1,1 @@
+import{e as a,f as s,av as r,as as o,aH as t,F as e,aI as n}from"./.pnpm-B5NcQQUZ.js";import{_ as p}from"./index-9TLdUthr.js";const f=p({},[["render",function(p,f){const i=n;return a(),s(e,null,[r(i,{type:"primary",onClick:f[0]||(f[0]=a=>p.$router.go(-1))},{default:o((()=>f[1]||(f[1]=[t("返回")]))),_:1}),f[2]||(f[2]=t(" 这是一个全屏页面 "))],64)}]]);export{f as default};

@@ -1,0 +1,1 @@
+import{G as e}from"./index-9TLdUthr.js";import{r as o}from"./.pnpm-B5NcQQUZ.js";function n(){const n=o(!1),t=o({});return{visible:n,modalData:t,open:function(e){e&&(t.value=e),n.value=!0},close:function(o){!function({emit:o,key:n=e,value:t=!1,isModal:a=!0}){o(`update:${n}`,t),a&&o("close")}({emit:o}),n.value=!1}}}export{n as u};
